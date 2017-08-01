@@ -25,5 +25,9 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.parse:parse-android:1.15.8'
     compile 'com.squareup.okhttp3:logging-interceptor:3.8.0' // for logging API calls to LogCat
+    compile 'com.android.support:recyclerview-v7:25.3.1' // for recycleview chat layout
+    compile 'com.github.bumptech.glide:glide:3.8.0' // for custom list adapter
+    compile 'com.parse:parse-livequery-android:1.0.4' // for Parse Live Queries
+
 
 }
